@@ -18,6 +18,7 @@ All code in this organization is licensed under the [GNU General Public License 
 ## Other Links
 
 [Founder's Repository](https://github.com/Mahmoud7Osman/inTradeOS)
+
 [Official Youtube Channel](https://youtube.com/inTradeOS)
 
 ---
